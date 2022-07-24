@@ -1,1 +1,1 @@
-# Augmented-Lagrangian-Method
+# Augmented Lagrangian Method
